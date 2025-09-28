@@ -39,6 +39,7 @@ const BOGodPage = () => {
     'kronos', 'oranos', 'gaia',
     'nuwa', 'shennong', 'fuxi',
     'odin', 'thor', 'loki', 'freyr',
+    'amaterasu', 'susanoo', 'tsukuyomi',
   ];
 
     useEffect(() => {

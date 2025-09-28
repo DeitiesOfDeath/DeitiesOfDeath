@@ -18,6 +18,9 @@ const gods = [
   'thor',
   'loki',
   'freyr',
+  'amaterasu',
+  'susanoo',
+  'tsukuyomi',
 ];
 
 const GodGrid = ({ isMobile }) => {
@@ -25,9 +28,12 @@ const GodGrid = ({ isMobile }) => {
     <div
       style={{
         display: 'grid',
-        gridTemplateColumns: isMobile ? 'repeat(2, 1fr)' : 'repeat(8, 1fr)',
+        gridTemplateColumns: isMobile ? 'repeat(2, 1fr)' : 'repeat(7, 1fr)',
         gap: '2vw',
         justifyItems: 'center',
+        justifyContent: 'center',
+        alignItems: 'center',
+        alignContent: 'center',
         marginTop: '5vh',
       }}
     >
