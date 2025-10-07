@@ -145,9 +145,9 @@
   "coaches": [
     { "name": "Looki", "elo": "2050", "tagline": "Random Gods enjoyer", "avatar": "/assets/Looki.png", "aomstats": "https://aomstats.io/profile/1073780248"},
     { "name": "nullra", "elo": "2200", "tagline": "Those who seek rank must first seek wisdom", "avatar": "/assets/nullra.png", "aomstats": "https://aomstats.io/profile/1073840029"},
-    { "name": "Firefox", "elo": "1930", "tagline": "The best Hades", "avatar": "/assets/Firefox.png", "aomstats": "https://aomstats.io/profile/1073900453"},
+    { "name": "Firefox", "elo": "2000", "tagline": "The best Hades", "avatar": "/assets/Firefox.png", "aomstats": "https://aomstats.io/profile/1073900453"},
     { "name": "Jollyman", "elo": "1850", "tagline": "Complete player", "avatar": "/assets/Jollyman.png", "aomstats": "https://aomstats.io/profile/1073754984"},
-    { "name": "DarthNox", "elo": "1725", "tagline": "Agressive Atlantean enjoyer", "avatar": "/assets/Darthnox.png", "aomstats": "https://aomstats.io/profile/1073907478"},
+    { "name": "DarthNox", "elo": "1900", "tagline": "Agressive Atlantean enjoyer", "avatar": "/assets/Darthnox.png", "aomstats": "https://aomstats.io/profile/1073907478"},
     { "name": "SJO", "elo": "1600", "tagline": "Odin master", "avatar": "/assets/SJO.png", "aomstats": "https://aomstats.io/profile/1073774683"}
   ],
   "BO_thumbnail": {
@@ -227,7 +227,9 @@
     "Special anatolia build - Léonce": "kraken_icon.png",
     "Anti Krush/early relic build - By Husksuppe": "kronos_icon.png",
     "Oranos/Kronos - 6 Citizen Rush BO - By Chonikler IV": "villager_atlantean_icon.png",
-    "Amaterasu 2 Shrine Classical Fight - By ikosaeder": "Shrine_icon.png"
+    "Amaterasu 2 Shrine Classical Fight - By ikosaeder": "Shrine_icon.png",
+    "Amaterasu 2 Shrine 2nd TC - By ikosaeder": "amaterasu_icon.png",
+    "Susanoo Inari Okami One Base - By BqvH": "inari_okami_icon.png"
   },
   "BO_icons": {
     "hunt": "gazelle_icon.png",
