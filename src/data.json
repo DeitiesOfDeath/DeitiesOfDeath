@@ -54,7 +54,6 @@
     { "name": "CraggHack", "year": "2024" },
     { "name": "DarthNox", "year": "2024" },
     { "name": "Defiance", "year": "2024" },
-    { "name": "Dexito", "year": "2025" },
     { "name": "DT1", "year": "2011" },
     { "name": "Flamez", "year": "2024" },
     { "name": "Gentle", "year": "2025" },
@@ -91,15 +90,18 @@
     { "name": "Kiber", "year": "2025"},
     {"name": "Eddy", "year":"2025"},
     {"name": "Skray", "year": "2025"},
-    {"name": "Delusion", "year": "2025"},
     {"name": "Floom", "year": "2025"},
-    {"name": "Automaton", "year": "2025"},
     {"name": "Sultan", "year": "2025"},
     {"name": "Rokko", "year": "2025"},
     {"name": "motaba", "year": "2025"},
     {"name": "BqvH", "year": "2025"},
-    {"name": "Dexito", "year": "2025"},
-    {"name": "Cod1eh", "year": "2025"}
+    {"name": "Cod1eh", "year": "2025"},
+    {"name": "Alexwx", "year": "2025"},
+    {"name": "Cleb", "year": "2025"},
+    {"name": "Wuilfor", "year": "2025"},
+    {"name": "SammyShimmers", "year": "2025"}
+
+
   ],
   "merch": {
     "url": "https://bluehorizon-shop.fourthwall.com/en-eur/products/",
@@ -227,12 +229,18 @@
     "Special anatolia build - Léonce": "kraken_icon.png",
     "Anti Krush/early relic build - By Husksuppe": "kronos_icon.png",
     "Oranos/Kronos - 6 Citizen Rush BO - By Chonikler IV": "villager_atlantean_icon.png",
-    "Amaterasu 2 Shrine Classical Fight - By ikosaeder": "Shrine_icon.png",
+    "Amaterasu 2 Shrine Classical Fight - By ikosaeder": "shrine_icon.png",
     "Amaterasu 2 Shrine 2nd TC - By ikosaeder": "amaterasu_icon.png",
-    "Susanoo Minakatatomi One Base - By BqvH": "susanoo.png",
+    "Susanoo Minakatatomi One Base - By BqvH": "susanoo_icon.png",
     "Thor - Fast 2nd TC - Mirez": "thor_icon.png",
     "Amaterasu - Standard opening - TheRapl": "amaterasu_icon.png",
-    "Tsukyomi - Rush into 2TC - Husksuppe": "tsukuyomi_icon.png"			
+    "Tsukyomi - Rush into 2TC - Husksuppe": "tsukuyomi_icon.png",	
+    "Dwarven Armory 4:00 - by [DoD]CraggHack": "dwarven_armory_icon.png",
+    "Fuxi - 4:18 tripple Kuafu V2 - Mirez": "kuafu_icon.png",
+    "Fuxi - 3:33 Double Kuafu V2 - Mirez": "kuafu_icon.png",
+    "Nuwa - 3:46 early Chieftain V2 build - Mirez": "kuafu_chieftain_icon.png",
+    "Shennong - 3:33 Double Kuafu V2 - Mirez": "kuafu_icon.png"
+		
 
 
   },
@@ -457,7 +465,7 @@
   "nuba": "nuba_icon.png",
   "huangdi": "huangdi_icon.png",
   "ox cart": "ox_cart.png",
-  "Shrine": "Shrine_icon.png"
+  "Shrine": "shrine_icon.png"
   },
   "RTS_Overlay_icons": {
     "hunt": "animal/gazelle.png",
